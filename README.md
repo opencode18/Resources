@@ -1,6 +1,6 @@
 
 ### Welcome
-Hey!
+Hey!  
 Beginner? Do not worry you have came to the correct place.  
 Here we will give you a brief idea on how to kick start opensource development with github and git.
 
