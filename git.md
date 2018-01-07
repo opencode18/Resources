@@ -46,12 +46,12 @@ create a working copy of a local repository by running the
 command `git clone "url"`
 
 > NOTE :
-workflow-
+workflow :  
 your local repository consists of three "trees" maintained by git. the first one is your `Working Directory` which holds the actual files. the second one is the `Index` which acts as a staging area and finally the `HEAD` which points to the last commit you've made.
 
 ###  Add & Commit
-You can propose changes (add it to the Index) using `git add <filename>` for particular file and `git add *` for all the changed files
-This is the first step in the basic git workflow. To actually commit these changes use `git commit -m "Commit message"` .
+You can propose changes (add it to the Index) using `git add <filename>` for particular file and `git add *` for all the changed files.  
+This is the first step in the basic git workflow. To actually commit these changes use `git commit -m "Commit message"` .  
 Now the file is committed to the HEAD, but not in your remote repository yet.
 
 ### Pushing Changes
