@@ -133,7 +133,7 @@ If you are contributing to projects owned by others , then this step will be don
 
 ![](https://guides.github.com/activities/hello-world/delete-button.png)
 
-![](./images/flow.png)
+![](./images/flow.PNG)
 
 
 Forking Projects
