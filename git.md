@@ -35,7 +35,7 @@ Lets Begin
 Install Git
 -------------
 
-Linux : `sudo apt-get install git`
+Linux : `sudo apt-get install git`  
 Windows:  [Download Link](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)
 
 ### Create A New Repository
