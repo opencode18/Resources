@@ -3,12 +3,12 @@
 ### Table of contents
 1. [What is Github?](#what-is-github?)
 2. [Lets Begin](#lets-begin)
-		1.  [Step 1. Create a Repository](#step-1-create-a-repository)
-		2.  [Step 2. Create a Branch](#step-2-create-a-branch)
-		3.  [Step 3. Make and commit changes](#step-3-make-and-commit-changes)
-		4.  [Step 4. Open a Pull Request](#step-4-open-a-pull-request)
-		5.  [Step 5. Merge your Pull Request](#step-5-merge-your-pull-request)
-3. [Forking Projects](#forking-projects)
+		1.  [Step 1. Create a Repository](#step-1-create-a-repository)  
+		2.  [Step 2. Create a Branch](#step-2-create-a-branch)  
+		3.  [Step 3. Make and commit changes](#step-3-make-and-commit-changes)  
+		4.  [Step 4. Open a Pull Request](#step-4-open-a-pull-request)  
+		5.  [Step 5. Merge your Pull Request](#step-5-merge-your-pull-request)  
+3. [Forking Projects](#forking-projects)  
 
 What is GitHub?
 ===================
